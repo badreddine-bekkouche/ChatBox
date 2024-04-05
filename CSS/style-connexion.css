@@ -1,0 +1,44 @@
+.connexion {
+  background-color: #c9d0d6;
+  margin: 0 auto;
+  width: 500px; 
+  height:500px;
+  border-style: inset;
+}
+body{
+   background-color: #c9ba8d;
+   font-family:Arial, sans-serif;
+}
+h1{
+   text-align:center;
+   color:white;
+}
+
+.center{
+  margin-lesdft:150px;
+}
+
+
+form{
+   padding-top:100px;
+   padding-left:45px;
+}
+.champ {
+height: 30px;
+width: 250px;
+}
+.btn-connexion {
+  display: block;
+  font-size: 1rem;
+  padding: 4px 8px;
+  color: white;
+  border-color: gray;
+  background: radial-gradient(#999, #4d4d4d);
+  cursor: pointer;
+  margin-top:50px;
+  margin-left:260px;
+}
+
+.btn-connexion:hover {
+  filter: sepia(100%);
+}

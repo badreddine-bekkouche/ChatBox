@@ -1,0 +1,72 @@
+
+#chatbox {
+  background-color: #919191;
+  width : 26%;
+  height:550px;
+  overflow-y: scroll;
+  border-radius: 5px 5px 0 0;
+  display:block;
+  float:right;
+}
+#message {
+  background-color: lightblue;
+  width: 1100px;
+  height: 100px;
+  overflow-y: scroll;
+  border-radius: 2px;
+}
+
+span{
+  margin-left: 15px;
+  background-color: white;
+  padding: 6px;
+  border-radius: 3px;
+}
+body{
+background-color: #c9ba8d;
+font-family:Arial, sans-serif;
+}
+#input-msg{
+  background-color: #919191;
+  height:100px;
+  float:right;
+  display:block;
+  width : 26%;
+  border-radius: 0 0 5px 5px;
+}
+#usermsg{
+  margin-left: 15px;
+  margin-top: 25px;
+  height: 60px;
+  width: 400px;
+  border-radius: 3px;
+}
+.submitbutton{
+  height:  50px;
+}
+
+.diru1 { 
+  display: block;
+  width : 70.352%;
+  height: 600px;
+  background-color: #919191;
+  float:left;
+  border-radius: 5px;
+  padding: 25px;
+  position: relative;
+}
+.option { 
+  display: block;
+  width : 300px;
+  height: 200px;
+  background-color: lightgrey;
+  border-radius: 5px;
+  float: left;
+  margin-right: 25px;
+  margin-top: 20px;
+}
+.truc-a-centrer {
+  position: absolute; 
+  margin-left: 60px;
+  margin-top: 10px;
+}

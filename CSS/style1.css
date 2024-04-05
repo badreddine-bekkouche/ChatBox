@@ -1,0 +1,16 @@
+#chatbox {
+  background-color: #919191;
+  margin: 0 auto;
+  width: 500px; 
+  height:500px;
+  border-radius: 30px;
+}
+a{background-color: white;
+  border-spacing: 5px;
+  border-radius: 5px;
+}
+body{
+background-color: #c9ba8d;
+font-family:Arial, sans-serif;
+}
+
