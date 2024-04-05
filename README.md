@@ -1,5 +1,5 @@
 # ChatBox
-Ce projet est une chatbox permettant à différents utilisateurs de discuter entre eux. Elle est développée avec HTML, CSS, JavaScript et PHP, et utilise une base de données pour stocker les messages et les informations des utilisateurs.
+Ce projet est une chatbox permettant à différents utilisateurs de discuter entre eux. Elle est développée avec du HTML, CSS, JavaScript, PHP, et utilise une base de données pour stocker les messages et les informations des utilisateurs.
 
 Fonctionnalités
 - Différents rôles d'utilisateurs : modérateur, administrateur et utilisateur
